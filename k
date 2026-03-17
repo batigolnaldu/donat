@@ -1,0 +1,20 @@
+html
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Поддержать хоккейный канал</title>
+    <style>
+        body { background: #f0f2f5; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; font-family: sans-serif; }
+        .container { background: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); text-align: center; }
+        h2 { color: #1a1a1a; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>На развитие канала 🏒</h2>
+        <!-- <iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=1GI9DQ1993U.260317&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>-->
+    </div>
+</body>
+</html>
